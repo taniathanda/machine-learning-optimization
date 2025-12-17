@@ -135,5 +135,5 @@ It integrates baseline machine learning, deep learning (LSTM), Bayesian hyperpar
 
 ### Clone the repository
 ```bash
-git clone <your-repository-url>
+git clone <[your-repository-url](https://github.com/taniathanda/machine-learning-optimization.git)>
 cd <repository-folder>
